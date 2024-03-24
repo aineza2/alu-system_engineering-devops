@@ -1,1 +1,1 @@
-ALU system engineering devops
+ALU system engineering devops web stack debugging
